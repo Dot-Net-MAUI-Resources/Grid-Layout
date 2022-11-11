@@ -1,0 +1,1 @@
+C:\Users\yavak\Programming\DotNet_MAUI\Grid-Layout\GridLayout\GridLayout\GridLayout.csproj;x64
